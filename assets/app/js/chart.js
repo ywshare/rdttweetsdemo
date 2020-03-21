@@ -89,7 +89,7 @@ Highcharts.chart('containerBoost', {
     },
 
     title: {
-        text: 'Highcharts drawing ' + data.length + ' "NON DUPLICATES RETWEETS/SHARES"'
+        text: 'RETWEETS/SHARES with Hourly PRECISION'
     },
 
     subtitle: {
@@ -127,7 +127,7 @@ Highcharts.chart('containerBoostFC', {
     },
 
     title: {
-        text: 'Highcharts drawing ' + datafc.length + ' "NON DUPLICATES - FAVORITES/LIKES"'
+        text: 'FAVORITES/LIKES with Hourly PRECISION'
     },
 
     subtitle: {
